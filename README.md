@@ -1,8 +1,7 @@
 # vial
 [![Build Status](https://travis-ci.org/concordusapps/python-vial.png?branch=master)](https://travis-ci.org/concordusapps/python-vial)
 [![Coverage Status](https://coveralls.io/repos/concordusapps/python-vial/badge.png?branch=master)](https://coveralls.io/r/concordusapps/python-vial?branch=master)
-[![PyPi Version](https://img.shields.io/pypi/v/vial.svg
-![PyPi Downloads](https://img.shields.io/pypi/dm/vial.svg
+[![PyPi Version](https://img.shields.io/pypi/v/vial.svg)](https://pypi.python.org/pypi/vial)
 > A session store backed by redis.
 
 ## Installation
